@@ -1,2 +1,4 @@
 # hello-world
-just an other repository.
+hello folks
+
+manoj here im interested in machine learning and artificial intelegence....
